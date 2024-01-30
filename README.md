@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 - 😄 Passionate about new technologies and using code to help people in their everyday lives.
 - ⚡ Fun fact: I participate in hackathons! Checkout my <a href="https://devpost.com/patel-krishna">Devpost</a>
 
-<!---![github stats](https://github-readme-stats.vercel.app/api?username=patel-krishna&show_icons=true)-->
+![github stats](https://github-readme-stats.vercel.app/api?username=patel-krishna&show_icons=true)
 
 >*Whatever, big or small, you are you after all.*
